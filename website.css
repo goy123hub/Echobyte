@@ -1,0 +1,181 @@
+.header{
+    background-color: rgb(254, 254, 254);
+    width: 1000px;
+    height:130px;
+    margin:auto;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 30px;
+    
+}
+.logo{
+    border-radius: 150px;
+}
+.fotokita{
+    border-radius: 50px;
+}
+
+h1{
+    font-family: cursive;
+}
+h2{
+    margin-top: 60px;
+    font-family: cursive;
+    color: white;
+}
+p{
+    margin-top:50px;
+    font-size: 30px;
+    color: white;
+}
+body {
+    background-image: url('6150433.jpg');
+}
+.logo{
+    width:400px;
+    margin-top: -100px;
+    
+}
+.CME{
+    width:180px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.fotokita{
+    width:1000px;
+}
+.HEC{
+    width:300px;
+    height:150px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.tombol-tombol button,
+        .tombol-tombol p {
+            float: left; 
+            margin-right: 10px;
+        }
+
+.physics{
+    width:280px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.Math{
+    width:400px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(8, 6, 7);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.BI{
+    width:500px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(8, 6, 7);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+
+.chemistry, .Eco, .Reli, .Mandarin, .German {
+    width:300px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.Art{
+    width:200px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.ICT{
+    width:200px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.PE {
+    width:200px;
+    height:100px;
+    background-color: rgb(169, 231, 255);
+    color: rgb(8, 6, 7);
+    font-weight: bolder;
+    font-size: 40px;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
+}
+.CME:hover, .HEC:hover, .physics:hover, .chemistry:hover
+,.PE:hover, .Eco:hover, .Reli:hover, .Mandarin:hover, .German:hover, .Art:hover, .ICT:hover, .BI:hover, .Math:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    cursor:pointer;
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar li a:hover {
+    background-color: #ddd;
+}
+
+.welcome-box {
+    background-color: rgb(169, 231, 255); /* Fully opaque background */
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 20px; /* Rounded corners */
+    margin-bottom: 40px; /* Add some space between the box and the image */
+}
